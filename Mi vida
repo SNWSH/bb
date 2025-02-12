@@ -1,0 +1,14 @@
+ntent="width=device-width, initial-scale=1.0">
+    <title>San Valentín 💖</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="pregunta">¿Quieres ser mi San Valentín, mi piquito de oro? 💖</h1>
+        <button onclick="aceptar()">Sí</button>
+        <button id="noBtn" onclick="rechazar()">No</button>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
